@@ -1,5 +1,5 @@
-[![YouTube](https://img.shields.io/badge/YouTube-Healthy%20Coding-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@HealthyCoding)
 ![](banner.jpg)
+[![YouTube](https://img.shields.io/badge/YouTube-Healthy%20Coding-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@HealthyCoding)
 ## Hi there 👋
 
 I'm a Product Manager at [DevExpress](https://www.devexpress.com/) with a passion for crafting great apps with .NET technologies. I specialize in both desktop and mobile development - including WPF, WinForms, and .NET MAUI. I'm an expert in creating accessible applications and enjoy exploring how AI can enhance user experiences.
